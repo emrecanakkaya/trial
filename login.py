@@ -2,6 +2,7 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+import requests
 
 # // amazon url and test data information
 amazon_url = 'http://www.amazon.com'
